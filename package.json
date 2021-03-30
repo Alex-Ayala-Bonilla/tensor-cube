@@ -1,0 +1,19 @@
+{
+  "name": "cubetranstensor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Alex-Ayala-Bonilla:wapwas-Wicje6-wyjtyv@github.com/Alex-Ayala-Bonilla/cubetranstensor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Ayala-Bonilla/cubetranstensor/issues"
+  },
+  "homepage": "https://github.com/Alex-Ayala-Bonilla/cubetranstensor#readme"
+}
